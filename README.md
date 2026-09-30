@@ -15,8 +15,8 @@
 
 - 🎓 I'm doing my Master's in Data Science and Engineering at Politecnico di Torino
 - 🔍 I love the machine learning and generative AI side of things, but I care just as much about the part that comes after — explaining what a model actually found in a way that makes sense to the people who'll use it
-- 🌍 Based in Turin, Italy. Persian is my native language, and I'm also fluent in English.
-- 📊 Day to day, that means building models, cleaning up messy datasets, and putting together dashboards that make sense to people who aren't data scientists.
+- 🌍 Based in Turin, Italy. Persian is my native language, and I'm also fluent in English and speak a bit of Italian.
+- 📊 Day to day, that means building models, cleaning up messy datasets and finding partterns, and putting together dashboards that make sense to people who aren't data scientists.
 
 ---
 
